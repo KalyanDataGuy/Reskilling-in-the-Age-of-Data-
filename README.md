@@ -15,6 +15,7 @@ Data literacy — Python, SQL, visualization — isn’t optional anymore.
 Learning is no longer an event — it’s a **data habit**.  
 Every dataset you explore, every metric you interpret adds to your employability curve.  
 
-✨ **Takeaway:** The fastest-growing skill is adaptability itself.  
+# ✨ **Takeaway:** The fastest-growing skill is adaptability itself. 
+<img width="1024" height="1536" alt="KalyanDataGuy Reskilling" src="https://github.com/user-attachments/assets/440a09e5-62a0-4de7-b200-2189f21d571b" />
 
 *KalyanDataGuy © 2025*  
